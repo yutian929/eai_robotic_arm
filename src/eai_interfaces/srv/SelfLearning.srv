@@ -1,0 +1,5 @@
+# 传入layout={"orange_block":(150,250,0), "purple_block":(250,350,0)}, actions={grab('purple_block',150,250,0),place('orange_block',230,370,0)}
+string robot_actions
+---
+# 传出robot_cmds="将橙色物块放到紫色物块的左下角"
+string robot_cmds 

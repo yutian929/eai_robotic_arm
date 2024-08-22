@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+  <filename>rgb_83_84.jpg</filename>
+  <size>
+    <width>416</width>
+    <height>312</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>r</name>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <occluded>0</occluded>
+    <bndbox>
+      <xmin>283</xmin>
+      <ymin>155</ymin>
+      <xmax>324</xmax>
+      <ymax>184</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>g</name>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <occluded>0</occluded>
+    <bndbox>
+      <xmin>326</xmin>
+      <ymin>191</ymin>
+      <xmax>364</xmax>
+      <ymax>231</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>b</name>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <occluded>0</occluded>
+    <bndbox>
+      <xmin>367</xmin>
+      <ymin>189</ymin>
+      <xmax>393</xmax>
+      <ymax>219</ymax>
+    </bndbox>
+  </object>
+</annotation>

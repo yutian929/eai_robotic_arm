@@ -1,0 +1,3 @@
+bool color_img_req
+---
+sensor_msgs/Image color_img_res

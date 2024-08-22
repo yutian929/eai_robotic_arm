@@ -1,0 +1,7 @@
+names:
+  0: r
+  1: g
+  2: b
+path: C:\Users\Zaki\PycharmProjects\openvino_learning\datasets\rgb2
+train: train.txt
+val: val.txt

@@ -1,0 +1,7 @@
+下面是一些正确回答的记录,请你学习参考:
+input：layout={"red_block":[320,280,0], "blue_block":[300,300,0], "green_block":[500,400,0]}, user_cmd="将红色物块放到蓝色物块的右前角",output："Already OK"
+input：layout={"orange_block":[150,250,0], "purple_block":[250,350,0]}, user_cmd="将橙色物块放到紫色物块的左下角", output：[["grab", "orange_block"], ["place", "purple_block","left"], ["grab", "orange_block"], ["place", "purple_block","below"]]
+input: layout={"red_block": [-18, 170, -3], "blue_block": [4, 149, -6]}, user_cmd=将紫色方块放在蓝色方块的左前方,output："Wrong!"
+input: layout={"yellow_block": [109, 144, 0], "green_block": [-146, 148, 13], "red_block": [-46, 177, 0], "blue_block": [-141, 262, 23]}, user_cmd="用方块摆一只毛毛虫". output: [["grab", "yellow_block"], ["place", "red_block", "right"], ["grab", "blue_block"], ["place", "yellow_block", "right"], ["grab", "green_block"], ["place", "blue_block", "right"]]
+input: layout={"blue_block": [64, 272, 5], "yellow_block": [-103, 265, 11], "green_block": [38, 215, -3], "purple_block": [-70, 203, 1]}, user_cmd="摆一只毛毛虫". output: [["grab", "green_block"], ["place", "purple_block", "right"], ["grab", "blue_block"], ["place", "green_block", "right"], ["grab", "yellow_block"], ["place", "blue_block", "right"]]
+input: layout={"blue_block": [-146, 349, 37], "yellow_block": [128, 145, 1], "green_block": [-145, 123, 11], "red_block": [-69, 244, 6]}, user_cmd="摆一只毛毛虫". output: [["grab", "green_block"], ["place", "red_block", "right"], ["grab", "blue_block"], ["place", "green_block", "right"], ["grab", "yellow_block"], ["place", "blue_block", "right"]]

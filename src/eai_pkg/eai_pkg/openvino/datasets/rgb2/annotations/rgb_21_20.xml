@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+  <filename>rgb_21_20.jpg</filename>
+  <size>
+    <width>416</width>
+    <height>312</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>r</name>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <occluded>0</occluded>
+    <bndbox>
+      <xmin>261</xmin>
+      <ymin>231</ymin>
+      <xmax>303</xmax>
+      <ymax>267</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>g</name>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <occluded>0</occluded>
+    <bndbox>
+      <xmin>178</xmin>
+      <ymin>235</ymin>
+      <xmax>210</xmax>
+      <ymax>266</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>b</name>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <occluded>0</occluded>
+    <bndbox>
+      <xmin>126</xmin>
+      <ymin>234</ymin>
+      <xmax>159</xmax>
+      <ymax>267</ymax>
+    </bndbox>
+  </object>
+</annotation>

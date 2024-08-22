@@ -1,0 +1,6 @@
+# 传入user_cmd和color_img
+string user_cmd
+sensor_msgs/Image color_img
+---
+# 传出ai_chat_response格式
+string ai_chat_response

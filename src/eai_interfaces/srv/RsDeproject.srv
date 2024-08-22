@@ -1,0 +1,7 @@
+int32[] c_x
+int32[] c_y
+int32[] c_d
+---
+int32[] rs_x
+int32[] rs_y
+int32[] rs_d

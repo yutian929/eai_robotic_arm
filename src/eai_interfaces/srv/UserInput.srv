@@ -1,0 +1,5 @@
+# 传入user_input_req
+bool user_input_req
+---
+# 传出user_input_res
+string user_input_res

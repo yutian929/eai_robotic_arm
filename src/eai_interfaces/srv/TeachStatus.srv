@@ -1,0 +1,5 @@
+# 传入teach_status_req
+bool teach_status_req
+---
+# 传出teach_status_res
+bool teach_status_res

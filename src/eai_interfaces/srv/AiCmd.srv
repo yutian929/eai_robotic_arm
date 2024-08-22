@@ -1,0 +1,5 @@
+# 传入prompt
+string ai_prompt
+---
+# 传出cmd,json格式
+string ai_basic_arm_cmds

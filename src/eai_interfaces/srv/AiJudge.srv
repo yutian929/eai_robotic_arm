@@ -1,0 +1,5 @@
+# 传入user_cmd
+string user_cmd
+---
+# 传出ai_judge("exe", "chat", "learn")
+string ai_judge

@@ -1,0 +1,7 @@
+# 传入user_cmd, layout, color_img
+string user_cmd
+string layout
+sensor_msgs/Image color_img
+---
+# 传出ai_chat_response格式
+string vlm_advice
